@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Email-template/static/css/main.f11cb72a.css",
+    "main.js": "/Email-template/static/js/main.7525b24c.js",
+    "index.html": "/Email-template/index.html",
+    "main.f11cb72a.css.map": "/Email-template/static/css/main.f11cb72a.css.map",
+    "main.7525b24c.js.map": "/Email-template/static/js/main.7525b24c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f11cb72a.css",
+    "static/js/main.7525b24c.js"
+  ]
+}
